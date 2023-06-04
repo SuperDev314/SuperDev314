@@ -155,7 +155,7 @@
 
 <p align="center">
 
-<a href="https://github.com/SuperDev314?tab=repositories"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=Jack-Wilson&theme=gotham&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="48%" alt="@Goblin's github-readme-stats"/></a>
+<a href="https://github.com/SuperDev314?tab=repositories"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=Jack-Wilson&theme=gotham&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="48%" alt="@Jack's github-readme-stats"/></a>
 <a href="https://github.com/PrinceGoblinTech?tab=stars"><img src="https://github-readme-streak-stats.herokuapp.com?user=PrinceGoblinTech&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="@Goblin's github-readme-streak-stats"/></a>
 
 </p>
@@ -173,11 +173,11 @@
 <a href="https://rextester.com/l/python3_online_compiler"><img src="./assets/colored.png"  width="100%" alt="python3_online_compiler"/></a>
 
 
-<p align="center">
+<!-- <p align="center">
 <a href="https://wakatime.com/@Goblin8888"><img src="https://wakatime.com/badge/user/8cc8aa38-4041-409b-9d27-a85e5b897ad4.svg?style=social" alt="wakatime"></a>
 <a href="https://github.com/PrinceGoblinTech?tab=following"><img src="https://img.shields.io/github/stars/PrinceGoblinTech?affiliations=OWNER%2CCOLLABORATOR%2CORGANIZATION_MEMBER&label=Total%20user%20stars%20in%20all%20repo&logoColor=red&style=social" alt="GitHub User's stars"></a>
-<a href="https://github.com/PrinceGoblinTech?tab=followers"><img src="https://img.shields.io/github/followers/PrinceGoblinTech?&logoColor=red&style=social" alt="GitHub followers"></a>
-</p>
+<a href="https://github.com/SuperDev314?tab=followers"><img src="https://img.shields.io/github/followers/PrinceGoblinTech?&logoColor=red&style=social" alt="GitHub followers"></a>
+</p> -->
 
 
 <p align="center">
