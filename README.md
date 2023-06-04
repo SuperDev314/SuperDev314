@@ -169,19 +169,10 @@
 <a href="https://github.com/SuperDev314?tab=achievements"><img src="https://github-profile-trophy.vercel.app/?username=Jack-Wilson&theme=onestar&no-frame=true&column=3&row=2"  width="38%" alt="@Jack's trophy stats"/></a>
 </p>
 
-
 <a href="https://rextester.com/l/python3_online_compiler"><img src="./assets/colored.png"  width="100%" alt="python3_online_compiler"/></a>
 
-
-<!-- <p align="center">
-<a href="https://wakatime.com/@Goblin8888"><img src="https://wakatime.com/badge/user/8cc8aa38-4041-409b-9d27-a85e5b897ad4.svg?style=social" alt="wakatime"></a>
-<a href="https://github.com/PrinceGoblinTech?tab=following"><img src="https://img.shields.io/github/stars/PrinceGoblinTech?affiliations=OWNER%2CCOLLABORATOR%2CORGANIZATION_MEMBER&label=Total%20user%20stars%20in%20all%20repo&logoColor=red&style=social" alt="GitHub User's stars"></a>
-<a href="https://github.com/SuperDev314?tab=followers"><img src="https://img.shields.io/github/followers/PrinceGoblinTech?&logoColor=red&style=social" alt="GitHub followers"></a>
-</p> -->
-
-
 <p align="center">
-<a href="https://gist.github.com/PrinceGoblinTech"><img src="https://profile-counter.glitch.me/{Jack-Wilson}/count.svg" alt="PrinceGoblinTech :: Visitor's Count" /></a>
+<a href="https://gist.github.com/SuperDev314"><img src="https://profile-counter.glitch.me/{Jack-Wilson}/count.svg" alt="SuperDev314 :: Jack's Count" /></a>
 </p>
 
-<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="e" style="max-width: 100%;">
+<img src="https://github.com/SuperDev314/snk/raw/output/github-contribution-grid-snake.svg" alt="e" style="max-width: 100%;">
