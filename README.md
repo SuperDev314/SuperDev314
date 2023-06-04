@@ -198,15 +198,3 @@
 </p>
 
 <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="e" style="max-width: 100%;">
-
-
-# Reach out to me #
-<a href="mailto:kingalexandros8888@gmail.com"><img src="./assets/gmail.png" alt="Gmail" height="50" title="Send mail"></a>
-<a href="https://t.me/princegoblintech"><img src="./assets/telegram.webp" alt="Telegram" height="50" title="Send message"></a>
-<a href="https://ru.stackoverflow.com/users/371584/princegoblintech"><img src="./assets/stack_overflow.svg" alt="ru.stackoverflow" height="50" title="en.stackoverflow profile"></a>
-<a href="https://stackoverflow.com/users/13531449/princegoblintech"><img src="./assets/stack_overflow.svg" alt="stackoverflow" height="50" title="stackoverflow profile"></a>
-<a href="https://askubuntu.com/users/1561126/princegoblintech"><img src="./assets/ubuntu.svg" alt="askubuntu" height="50" title="askubuntu profile"></a>
-<a href="https://freelance.habr.com/freelancers/PrinceGoblinTech"><img src="./assets/habr.png" alt="freelance.habr" height="50" title="freelance.habr profile"></a>
-<a href="https://github.com/OldCodersClub"><img src="./assets/oldcodersclub.png" alt="OldCodersClub" height="50" title="Olde Coders"></a>
-<a href="https://github.com/DroidDump"><img src="./assets/droiddump.png" alt="Droid Dump" height="50" title="Android projects"></a>
-<a href="https://github.com/LessonDump"><img src="./assets/lessondump.png" alt="LessonDump" height="50" title="Lesson Dump"></a>
