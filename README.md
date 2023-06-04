@@ -169,10 +169,9 @@
 <a href="https://github.com/SuperDev314?tab=achievements"><img src="https://github-profile-trophy.vercel.app/?username=Jack-Wilson&theme=onestar&no-frame=true&column=3&row=2"  width="38%" alt="@Jack's trophy stats"/></a>
 </p>
 
-<a href="https://rextester.com/l/python3_online_compiler"><img src="./assets/colored.png"  width="100%" alt="python3_online_compiler"/></a>
-
 <p align="center">
 <a href="https://gist.github.com/SuperDev314"><img src="https://profile-counter.glitch.me/{Jack-Wilson}/count.svg" alt="SuperDev314 :: Jack's Count" /></a>
 </p>
 
-<img src="https://github.com/SuperDev314/snk/raw/output/github-contribution-grid-snake.svg" alt="e" style="max-width: 100%;">
+<a href="https://rextester.com/l/python3_online_compiler"><img src="./assets/colored.png"  width="100%" alt="python3_online_compiler"/></a>
+
